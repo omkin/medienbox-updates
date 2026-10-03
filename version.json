@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.3/Medienbox.apk",
-    "versionCode":  4,
-    "versionName":  "1.3",
-    "notes":  "Gespeicherte Videos lassen sich an WhatsApp und andere Apps weiterleiten."
+    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.4/Medienbox.apk",
+    "versionCode":  5,
+    "versionName":  "1.4",
+    "notes":  "Teilen ist eine grosse Schaltflaeche rechts. Die anderen Aktionen sind Symbole."
 }
