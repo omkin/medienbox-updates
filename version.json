@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.1/Medienbox.apk",
-    "versionCode":  2,
-    "versionName":  "1.1",
-    "notes":  "Neue Medienbox-Version 1.1."
+    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.2/Medienbox.apk",
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "notes":  "Gespeicherte Videos lassen sich an WhatsApp und andere Apps weiterleiten."
 }
