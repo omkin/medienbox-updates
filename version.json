@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.4/Medienbox.apk",
-    "versionCode":  5,
-    "versionName":  "1.4",
-    "notes":  "Teilen ist eine grosse Schaltflaeche rechts. Die anderen Aktionen sind Symbole."
+    "apk":  "https://github.com/omkin/medienbox-updates/releases/download/v1.5/Medienbox.apk",
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "notes":  "Instagram-Videos mit getrennter Bild- und Tonspur werden wieder gespeichert."
 }
